@@ -1,3 +1,6 @@
+
+Hand-Gesture-Volume-Control:-
+
 This project uses computer vision and hand tracking to control the system volume through simple hand gestures.
 By tracking the position of the thumb and index finger, the distance between them is used to adjust the system's audio volume in real-time. 
 The project utilizes OpenCV, Mediapipe, NumPy, and Pycaw libraries to achieve this functionality.
