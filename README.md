@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/AbinashParida-NITW/Hand-Gesture-Volume-Control-.git
+git clone https://github.com/AbinashParida-NITW/Hand-Gesture-Volume-Control.git
 cd hand-gesture-volume-control
 Install the required dependencies: You can install all required Python libraries using the following:
 
